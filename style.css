@@ -1,0 +1,44 @@
+nav{
+    background-color: midnightblue;
+    padding: 10px;
+    display: flex;
+    justify-content: flex-end;
+    position: fixed;
+    top: 0;
+    left: 0;
+    right: 0;
+    font-size: 18px;
+}
+
+nav a{
+    color: white;
+    margin-left: 20px;
+    text-decoration: none;
+}
+
+nav a:hover{
+    text-decoration: underline;
+}
+
+body{
+  text-align: center;
+}
+
+#sec{
+    background-color: midnightblue;
+    color: white;
+    text-align: center;
+    padding: 20px;
+}
+
+#tab{
+  font-size: 15px;
+}
+
+#tab2{
+  font-size: 20px;
+}
+
+#src{
+  font-size: 20px;
+}
